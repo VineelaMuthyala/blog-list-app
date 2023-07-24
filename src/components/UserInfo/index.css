@@ -1,0 +1,22 @@
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+}
+.profile-pic {
+  height: 70px;
+  width: 70px;
+}
+.name {
+  font-size: 15px;
+  font-family: 'roboto';
+  color: black;
+}
+.title {
+  font-size: 12px;
+  font-family: 'roboto';
+  color: #616e7c;
+}
